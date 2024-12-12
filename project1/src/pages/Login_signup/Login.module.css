@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+.in{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 20rem;
+    border-color: black;
+    background-color: beige;
+    border-width: 50vw;
+    
+    
+}
+
+.in2{
+    border-radius: 4rem;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    padding: 3px;
+    border-radius: 1rem;
+    border-color: black;
+    background-color: green;
+
+}
